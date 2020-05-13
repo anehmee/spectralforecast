@@ -5,6 +5,6 @@ Paul A. Gagniuc et al. Spectral forecast: A general purpose prediction model as 
 ### Image
 ![Screenshot_2020-05-06 Screenshot](https://user-images.githubusercontent.com/40066763/81239792-767bfb00-900e-11ea-97f2-a9400fbc6abb.png)
 
-implemented  by  Ahmad Nehme.
+ @Ahmad Nehme.
 
 
